@@ -91,6 +91,9 @@ flutter:
   assets:
   - assets/images/picture.1.jpg
   - assets/images/picture.2.jpg
+  - assets/images/margarita.jpg
+  - assets/images/meet_pizza.jpg
+  - assets/images/four_cheese.jpg
   fonts:
     - family: Lato
       fonts:
